@@ -1,1 +1,1 @@
-// this is javaScript file
+// this is Script file
